@@ -1,0 +1,186 @@
+li {
+    font-weight: bold;
+    list-style: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1cm;
+    font-weight: bold;
+    margin-top: 2%;
+    
+}
+img{
+    opacity : 0.5;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    size: contain;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.corpo{
+    text-align: center;
+    size: cover ;
+    
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.8;
+    font-weight: bold;
+    color: darkgoldenrod;
+    padding: 10px;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.8;
+    font-weight: bold;
+    color: darkgoldenrod;
+    padding: 50px;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-top: 0px;
+    padding: 70px;
+    font-size: 0.6cm;
+    
+}
+
+.corpo{
+    background-image: url('back.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 0px;
+    padding: 30px;
+    
+
+}
+
+.background{
+    background-color: rgb(255, 255, 255,0.5);
+    background-size: cover;
+    background-position: absolute;
+    
+    
+    
+   
+}
+footer{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    padding: 70px;
+    font-size: 0.4cm;
+}
+.gif1   {
+    display: inline-block; 
+    width: 699px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/clientes.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
+.gif2   {
+    display: inline-block; 
+    width: 709px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/agenda.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
+.gif3   {
+    display: inline-block; 
+    width: 705px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/pronturario.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
+.gif4   {
+    display: inline-block; 
+    width: 705px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/anaminese.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
+.gif5   {
+    display: inline-block; 
+    width: 705px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/orçamentos.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
+.gif6   {
+    display: inline-block; 
+    width: 705px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/relatorio.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
+.gif7   {
+    display: inline-block; 
+    width: 705px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/receituario.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
+.gif8   {
+    display: inline-block; 
+    width: 708px; /* Ajuste conforme necessário */
+    height: 450px; /* Ajuste conforme necessário */
+    background-image: url('gif/recibos.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10px; /* Espaçamento à direita do GIF */
+    vertical-align: middle; /* Alinhar verticalmente com o texto */
+    border-radius: 12px;
+    border-style: unset;
+    padding: 0;
+    margin-top: 0;
+}
